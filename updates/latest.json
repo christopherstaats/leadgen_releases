@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "notes": "Sales Director Lead Gen 1.0.0 — first release with the in-app updater (download + restart to apply).",
+  "pub_date": "2026-11-20T02:02:42.694Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdTN4RDB3UzF2UERYL3E5SlM1QTFkRjlONnhLVTUxL0U5Y0xPaDEwcTdycVgwUitJeWJ6RFpldzlxM1RuL1FiQm1iYzBrQkdSRGljYnhUVU5nT0RZNVBScDcwNWlPYUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTM4OTg4CWZpbGU6U2FsZXMgRGlyZWN0b3IgTGVhZCBHZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wCmsvd2Znbis4TzVQeVVmLy8vb291WkRBNlVKa25NdStXV3hrdmU2UDFodUNRaUo5bHRTSGkyYmsvK3lhckNJRGs4Q2V4UHdpWGZ0NGczemhleHR2T0FBPT0K",
+      "url": "https://github.com/christopherstaats/leadgen_releases/releases/download/Lead-Gen-v1.0.0/Sales-Director-Lead-Gen_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdTN4RDB3UzF2UEF6VGlJNkh3NDZBam5TeUhJVFAxYWJhRmNjckJaYkc3cHFTbjFnZ25rT0NjWno2SWRucUpqUWJaZXVpMEY5dmdOTTgvSkZjWXg3M3RHakQvbVduOUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTM5MTQxCWZpbGU6U2FsZXMgRGlyZWN0b3IgTGVhZCBHZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wCkltbGZoZ3JYTlp5MXNYNmtyWmlmNk0zS3l0RzlXd1pVMng3TEVyNEpGeEpLVkZ0eXV0RStFT2V3aWxIUmwyTXBsYTlqNytwazY4UUVGWURxdUhsZ0F3PT0K",
+      "url": "https://github.com/christopherstaats/leadgen_releases/releases/download/Lead-Gen-v1.0.0/Sales-Director-Lead-Gen_x64.app.tar.gz"
+    }
+  }
+}
