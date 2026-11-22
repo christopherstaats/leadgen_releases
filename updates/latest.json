@@ -1,15 +1,19 @@
 {
-  "version": "1.0.0",
-  "notes": "Sales Director Lead Gen 1.0.0 — first release with the in-app updater (download + restart to apply).",
-  "pub_date": "2026-11-20T02:02:42.694Z",
+  "version": "1.0.1",
+  "notes": "Sales Director Lead Gen 1.0.1 — first release with Windows support (signed NSIS installer + Windows updater path). Mac builds notarized as before.",
+  "pub_date": "2026-11-22T00:42:21.948Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdTN4RDB3UzF2UERYL3E5SlM1QTFkRjlONnhLVTUxL0U5Y0xPaDEwcTdycVgwUitJeWJ6RFpldzlxM1RuL1FiQm1iYzBrQkdSRGljYnhUVU5nT0RZNVBScDcwNWlPYUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTM4OTg4CWZpbGU6U2FsZXMgRGlyZWN0b3IgTGVhZCBHZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wCmsvd2Znbis4TzVQeVVmLy8vb291WkRBNlVKa25NdStXV3hrdmU2UDFodUNRaUo5bHRTSGkyYmsvK3lhckNJRGs4Q2V4UHdpWGZ0NGczemhleHR2T0FBPT0K",
-      "url": "https://github.com/christopherstaats/leadgen_releases/releases/download/Lead-Gen-v1.0.0/Sales-Director-Lead-Gen_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdTN4RDB3UzF2UEpqWDBjRVdJVkxDWllTTVhKOEpyT0I1Q2x1RGFVK0w3d2hhY2ZyRktyMEdqbWlhSVBTYUF1bkplclh5TDMra1BJaVJ3NHZqTDM3OThPL012Nzh6eEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzA3OTI2CWZpbGU6U2FsZXMgRGlyZWN0b3IgTGVhZCBHZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuMC4xCm84TmliUGZxaVJjdlhlWjA4WjlnU3FMRGs3V1RYNWswTlNCNVdGRUdKbmhKUUR6dFE1eDlUcHRBOEN4MDMwamR1eHlCbDJLQlcyT2U2b3hpc0FIN0J3PT0K",
+      "url": "https://github.com/christopherstaats/leadgen_releases/releases/download/v1.0.1/Sales-Director-Lead-Gen_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdTN4RDB3UzF2UEF6VGlJNkh3NDZBam5TeUhJVFAxYWJhRmNjckJaYkc3cHFTbjFnZ25rT0NjWno2SWRucUpqUWJaZXVpMEY5dmdOTTgvSkZjWXg3M3RHakQvbVduOUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTM5MTQxCWZpbGU6U2FsZXMgRGlyZWN0b3IgTGVhZCBHZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wCkltbGZoZ3JYTlp5MXNYNmtyWmlmNk0zS3l0RzlXd1pVMng3TEVyNEpGeEpLVkZ0eXV0RStFT2V3aWxIUmwyTXBsYTlqNytwazY4UUVGWURxdUhsZ0F3PT0K",
-      "url": "https://github.com/christopherstaats/leadgen_releases/releases/download/Lead-Gen-v1.0.0/Sales-Director-Lead-Gen_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdTN4RDB3UzF2UEZOZWtkamloVkROTU1IUStZM1V0ZFFYMGFyK3UrMURtam9mNzdTOWhUdlNLdExFcy9lYmU4Skc4THR0dTZvL2NrS1ZPVHRQbk0wRWVNMjFLTUU5ZGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzA4MDU4CWZpbGU6U2FsZXMgRGlyZWN0b3IgTGVhZCBHZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuMC4xClFkTDBraDNtSlpaU21jSnhHaSs5WkQzNldRb21DS0Nta29PVDgrMXl4NlJTMTJoWmlYazc5TmtPUzVmbzlQOUhjai9FZk51bXZ5NDZ6ays3SG1UM0J3PT0K",
+      "url": "https://github.com/christopherstaats/leadgen_releases/releases/download/v1.0.1/Sales-Director-Lead-Gen_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdTN4RDB3UzF2UE1rWGxqcE81OGlSUGw2R0FWTC9aeDVNQmVtRWdPSWR5aGpJOHE4c0l4eDBtcHlwNVNCTVI5ZU02WjNadTh0RGxwcDhaMHlXOGIvVDVPWDQxclZTZVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzA1NjIzCWZpbGU6U2FsZXMgRGlyZWN0b3IgTGVhZCBHZW5fMS4wLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4xCkNLK0tHL24rSzZ1T0NmQVdQSzV5QnArT0FRdnNVV2t3b1dnWEtvZVZpeGQ4cUdsSE9YTTlkdUsraVhRT0xiTzc3UWM5OVArSEhNTG40cnFDTlhXSURRPT0K",
+      "url": "https://github.com/christopherstaats/leadgen_releases/releases/download/v1.0.1/Sales.Director.Lead.Gen_x64-setup.exe"
     }
   }
 }
