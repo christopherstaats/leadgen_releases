@@ -1,0 +1,19 @@
+{
+  "version": "1.0.2",
+  "notes": "Sales Director Lead Gen 1.0.2 — Windows E2E fix batch: single-instance guard, live license re-checks, more reliable AI interview on small models, lead-quality gates (competitor/directory pages, HTML entities, phone format, LinkedIn footers), session history preserved on re-runs, Delete key button, updater current-version feedback. Windows installer + signed updater path; macOS builds notarized as before.",
+  "pub_date": "2026-11-27T15:34:52.720Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdTN4RDB3UzF2UEdZQWhaRjlRaUxxcUdTSE5JSGFCNDBzRzVGT2hqSDA4VTFVMzc5K2tiUTlyclhwdnVGY2gwLzBoL1pteC9WSmJ6VFFaOFJYUmp4eVdIUzB0ZGY3c2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzkyNzU3CWZpbGU6U2FsZXMgRGlyZWN0b3IgTGVhZCBHZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuMC4yCkUvVmlwMi92c3J6U1RyN2VLV1RqL0doa3p5Z2NRa1Y2UUJPM2dYS05wVjgyMUxrWFJhZ0F3MkpBSVBsell5T1pVU3R5dER1NXhHOUNDbmNQTTBKT0RnPT0K",
+      "url": "https://github.com/christopherstaats/leadgen_releases/releases/download/v1.0.2/Sales-Director-Lead-Gen_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdTN4RDB3UzF2UEUyTElUaER5eGMyb09SRThucTVOQWF3Q0FXSHpEamJMaUFMYlhSeS82SnRGV1doNERva3hQMzJrRnpneVpBQUVQckJ4RnNzWHVJSXB1MVdRUGpxM2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzkyODk5CWZpbGU6U2FsZXMgRGlyZWN0b3IgTGVhZCBHZW4uYXBwLnRhci5negl2ZXJzaW9uOjEuMC4yCnpTcXVtNjhXRjY4MEhaSEN3TWlLY0tiS2Q5Z3VGam1oOHQ1cEtIODBuK3BYMTZVTDRJNkRWY0tkMjc4NDgwTjR2cGdmQU00TStPeUxvckgrR04zNkJBPT0K",
+      "url": "https://github.com/christopherstaats/leadgen_releases/releases/download/v1.0.2/Sales-Director-Lead-Gen_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdTN4RDB3UzF2UEJiUDV5bndrclZNMU1IeHZBbWI1MlZtM3g4V1dMdktPN01EdkRRb1hjaHRiSlFSMm02aEJSOGszTnFYNE9SSmkvR1BNaGF3bXoyU1NFbnJZYlQ4YWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzkzMzgwCWZpbGU6U2FsZXMgRGlyZWN0b3IgTGVhZCBHZW5fMS4wLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yCnZiTXUzaHRHWHZoTlJqS09ONm9JMjZZcnlFQXREQ2VJVXIzcXcyeFRvU1hTK1d1bmJkc1BxVFpxWElpMGVRTC9IUXBrYWFzcHJWNmRMN2VIOHpTTkFnPT0K",
+      "url": "https://github.com/christopherstaats/leadgen_releases/releases/download/v1.0.2/Sales.Director.Lead.Gen_x64-setup.exe"
+    }
+  }
+}
